@@ -1,0 +1,32 @@
+* Variables
+	es un espacio en memoria al que podemos acceder, por ejemplo tenemos una cajita y esta se encuentra vacia nosotros podemos en cualquier momento coger la cajita y agregarle cosas de cualquier tipo mientras se lo indiquemos cajita guarda un balos que es del tipo juguete ahora nuestra cajita guarda juguetes.
+* Strings
+
+	es un cadena de texto, cualquier dato que incluyamos que sea encerrado entre ('',"",``) se convertira en texto.
+
+	es como decir oye js quiero que mi pelotita sea texto como le hago y js simplremente dira encierrala entre comillas y hay tu vas y la encierrra "pelotita".
+
+* Funciones (argumentos, `return`)
+
+	una funcion es un espacio para guardar instrucciones, esto nos permite ahorrar volver a escribir codigo y ser mas organizados y descriptivos con nuestro codigo.
+
+	como funciona pues decimos che js quiero que de aqui a aqui sea para escribir una instruccion para usar mas adelante y js te dira ok designa function(){}, y tu como ¿que? y eso parentesis() y esas llaves{}? y js te dira che te lo dejo simple los parentesis() son para que me digas argumentos los cuales voy a tener encuenta para realizar la instruccion y si no tengo argumentos, dira js no te preocupes si las instruccion que diste realmente no lo necesitas no habra problema pero si indicame que no tenes argumento con el parentesis sin nada dentro() ok js pero porque no me muestras nada aaah porque no me dijiste que retornara algo eso lo hace con return que es return? return es lo que medices que te muestre y donde me dices que termine las instrucciones.
+	ah ok js.
+
+
+* Declaraciones `if`
+
+	es una sentencia condicional, que es esto podemos entenderlo como si tu mama te dice ve a la tienda y me traes lo necesario para el almuerzo y si sobrea te compras un dulce, ese y si depende completamente de los precio del mercado o tienda y no sabe si se cumple la condicion hasta no comprar las cosas y dado caso que nos den vuelto entonces compramos dulces... en codigo seria tal que asi.
+
+	if(te sobra vuelto){
+
+		compras dulces;
+	} else{
+
+		no compras dulces;
+
+	};
+
+* Valores booleanos (`true`, `false`)
+
+	un valor booleano es como un detector de mentiras si dices mentira el booleano lo sabra y te dira false indicandote que mientes y true diciendo que eres sincero.
