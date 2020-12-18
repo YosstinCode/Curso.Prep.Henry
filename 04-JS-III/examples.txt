@@ -1,0 +1,3 @@
+* Arrays
+
+los arreglos son comom un armario con varios cajones y en cada cajon podemos guardar algo en javascript ese algo puede ser cualquier tipo de dato, para saber donde guardamos ese algo escoges el cajon en el que lo guardamos empeando a contar desde cero.
