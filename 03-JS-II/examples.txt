@@ -1,0 +1,20 @@
+* `for`
+	
+ es un bucle, digamos que mama nos manda a exprimir limones y hay 5 limones entonces los exprimimos 1 por 1 hasta que limones sea 0 por lo tanto mientras haya un limon seguimos exprimiendo.
+
+ for(limones = 5; limones > 0; i--){
+ 	exprimir limones;
+ }
+
+* `&&`, `||`, `!`
+
+&& o and, || o or, ! o not, son operadores logicos.
+
+ejemplo si dado caso tengo una canasta y mi hermano guarda 2 manzanas y 1 pera tengo que revisar si estan efectivamente ahi por tanto voy y digo 2 manzanas estan en la canasta && 1 pera esta en la canasta esto me dira true si mi hermano las guardo pero si el se comio una manzana me dira falso porque las cosas no estan completas
+
+ejmeplo si yo te digo que mandaste a reparar tu balon y tu tren en la misma tienda y le pregunto al tendero ya estan listos mis juguestes? el ira y revisa si tren esta reparado ||(o) balon esta reparado.
+
+ejemplo si yo te digo tu tren !=(no es igual) tu balon esto va ser true.
+
+
+
