@@ -1,0 +1,16 @@
+* Objetos
+	los objetos son variables a las que le pasamos atributos mas exactamente los objetos buscan recrear cosas de la vida real. tipo un carro es un objeto.
+	* Propiedades
+		con las propiedades designamos mas especificacion a los objetos. tipo el carro es rojo, rojo es un color, color es la propiedad y rojo su valor;
+	* Métodos
+		un metodo es una intruccion que le damos al objeto la cual se designa con una funcion, tipo que el carro prenda, frene, acelere, abra una puerta, cierre una puerta.
+	* Bucle `for…in`
+		for in es como decir bueno tenemos un objeto entonces entremos en sus propiedad una por una
+
+		for(let entrar in objeto){
+			console.log(objeto[entrar])
+		}
+	* Notación de puntos vs notación de corchetes
+		la notacion de puntos nos permite indicar despues del punto la propiedad tipo carro.color aqui accedemos al color del carro.
+
+		la notacion de corchete nos premite indicar dentro de ellos la propiedad tipo carro["color"] esta propiedad debe ser un string.
