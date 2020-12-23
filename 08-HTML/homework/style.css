@@ -1,0 +1,73 @@
+body{
+	background: url("https://img.freepik.com/foto-gratis/fondo-madera_24972-623.jpg?size=626&ext=jpg") repeat;
+}
+
+header .divClass{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+h1{
+	color:#FF4E00FF;
+}
+h3, h4{
+	color:#FF6636FF;
+}
+
+
+section .divClass{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+section span{
+	color:#FFCC99FF;
+}
+
+section span a{
+	color: #FF994BFF;
+}
+
+#spanId{
+	font-size: 18px;
+	margin: 50px;
+}
+
+main{
+	text-align: center;
+}
+
+#thirdDiv{
+	background-color: #FF4E0057;
+	width:500px;
+	height:600px;
+	padding:50px;
+	border: 3px solid;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+}
+
+#thirdDiv h5{
+	margin:0;
+	padding:0;
+	font-size: 18pt;
+	color:#F97539FF;
+
+}
+
+#thirdDiv ul li{
+
+	text-align: justify;
+	color:#FFCC99FF;
+
+}
+
+#thirdDiv img{
+	width: 400px;
+	height: 250px;
+	margin: auto;
+}
+

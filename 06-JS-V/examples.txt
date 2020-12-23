@@ -1,0 +1,11 @@
+* `prototype`
+
+	los prototipos son propiedades incrustadas en los objetos las cuales tiendes a ser funciones, y estas estan ordenas por herencia. ejemplo
+
+	es como decir que tenes una cajita la cual esta dentro de otra cajita en la primera que es la mas grande es el objeto que creamos nosotros y la segunda la cual js la define automaticamente como __proto__ tenes propiedades con las cuales podemos alterar la primera cajita.
+
+* _Constructors_ (de Clases)
+	
+	con un contructor de clase designamos como crear un objeto son su parametros.
+
+	es como decir tenes dos balones todas las caracteristicas parecidas van para el constructor y el construtor dira cuales son y las demas son propiedades de cada uno por ejemplo uno es de futbol y otro de basket.
